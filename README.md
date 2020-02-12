@@ -1,5 +1,5 @@
 # gladiatorgame
-##Author 
+## Author 
 Valtteri Nummi
 
 ## About
@@ -9,7 +9,9 @@ fight against other teams.
 
 I borrowed the character builds, weapons and combat rules from 1st edition RuneQuest tabletop game.
 
-# How to play
+## How to play
 You will need to add Lombok to your build path.
 The text will appear in console.
+
+## Commands
 q-quit, c-commands, n-start/next turn, a-fighter a desc, b-fighter b desc
